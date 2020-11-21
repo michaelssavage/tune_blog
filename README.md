@@ -1,10 +1,6 @@
-# [Start Bootstrap - Clean Blog](https://startbootstrap.com/theme/clean-blog/)
+# Electronic Music Blog Based on Bootstrap
 
-## Preview
-
-[![Clean Blog Preview](https://assets.startbootstrap.com/img/screenshots/themes/clean-blog.png)](https://startbootstrap.github.io/startbootstrap-clean-blog/)
-
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-clean-blog/)**
+**[MICABLE.NETLIFY.APP](https://micable.netlify.app//)**
 
 ## Status
 
